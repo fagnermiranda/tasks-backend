@@ -29,7 +29,7 @@ public class TaskController {
 	}
 	
 	/**
-	 * Teste auto deploy Jenkins. 
+	 * Teste auto deploy Jenkins 
 	 * @param todo
 	 * @return
 	 * @throws ValidationException
